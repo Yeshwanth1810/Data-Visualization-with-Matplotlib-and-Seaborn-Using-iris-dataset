@@ -149,18 +149,6 @@ Here’s a detailed explanation of each type of visualization used in this proje
   plt.title('Heatmap of Feature Correlations')
   plt.show()
   ```
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. **Fork the repository** on GitHub.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Make changes** and commit them (`git commit -am 'Add new feature or fix'`).
-4. **Push changes** to your forked repository (`git push origin feature-branch`).
-5. **Create a Pull Request** with a description of your changes.
-
-Ensure that your code follows the project’s style guidelines and includes appropriate tests.
 ## Contact
 
 For questions or feedback, please contact:
