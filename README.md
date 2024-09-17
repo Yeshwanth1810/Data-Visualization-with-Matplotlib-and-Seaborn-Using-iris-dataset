@@ -3,7 +3,6 @@ Welcome to the "Data Visualization with Matplotlib and Seaborn Using the Iris Da
 # Table of Contents
 - [Libraries and Dataset](#libraries-and-dataset)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Visualizations](#visualizations)
   - [Pair Plot](#pair-plot)
   - [Histogram](#histogram)
@@ -165,8 +164,11 @@ Ensure that your code follows the project’s style guidelines and includes appr
 ## Contact
 
 For questions or feedback, please contact:
+
 **Kolli Yeshwanth**
+
 **linkenin profile**:https://www.linkedin.com/in/yeshwanth-kolli-4bb5492a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 
 Thank you for exploring data visualization with Matplotlib and Seaborn!
