@@ -92,7 +92,7 @@ pip install notebook
 
 Here’s a detailed explanation of each type of visualization used in this project:
 
-### Pair Plot
+# Pair Plot
 
 **Theory:** A pair plot (or scatterplot matrix) visualizes pairwise relationships between features in a dataset. It displays scatter plots for each pair of features and histograms for each individual feature along the diagonal. This helps to identify correlations, distributions, and patterns between features.
 
