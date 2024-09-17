@@ -12,22 +12,18 @@ Welcome to the "Data Visualization with Matplotlib and Seaborn Using the Iris Da
   - [Heatmap](#heatmap)
 - [Contact](#contact)
 ### Libraries
-
 1. **Matplotlib**
    - **Description:** Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It provides a MATLAB-like interface for plotting data.
    - **Key Features:**
      - Basic plotting functions (line plots, scatter plots, bar charts, etc.)
      - Extensive customization options for visual elements
      - Support for various output formats (PNG, PDF, SVG)
-   - **Documentation:** [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
 2. **Seaborn**
    - **Description:** Seaborn is a high-level statistical data visualization library based on Matplotlib. It provides a more convenient interface for creating complex visualizations and includes beautiful default styles.
    - **Key Features:**
      - Built-in themes and color palettes for aesthetically pleasing plots
      - Functions for creating complex plots with simpler syntax (e.g., pair plots, heatmaps)
      - Integration with Pandas DataFrames for easy data manipulation and plotting
-   - **Documentation:** [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ### Dataset
 
@@ -66,28 +62,6 @@ To use Jupyter Notebook:
 ```bash
 pip install notebook
 ```
-
-## Usage
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/Data-Visualization-with-Matplotlib-and-Seaborn-Using-Iris-Dataset.git
-   cd Data-Visualization-with-Matplotlib-and-Seaborn-Using-Iris-Dataset
-   ```
-
-2. **Start Jupyter Notebook:**
-
-   ```bash
-   jupyter notebook
-   ```
-
-   Open `Iris_Data_Visualization.ipynb` from the Jupyter interface.
-
-3. **Explore the Notebook:**
-
-   The notebook includes sections for different visualizations. Run each cell to see how visualizations are generated and modify the code as needed.
-
 ## Visualizations
 
 Here’s a detailed explanation of each type of visualization used in this project:
@@ -188,20 +162,13 @@ Contributions are welcome! To contribute:
 5. **Create a Pull Request** with a description of your changes.
 
 Ensure that your code follows the project’s style guidelines and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or feedback, please contact:
+**Kolli Yeshwanth**
+**linkenin profile**:https://www.linkedin.com/in/yeshwanth-kolli-4bb5492a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- **Email:** your.email@example.com
-- **GitHub Issues:** [Submit an Issue](https://github.com/yourusername/Data-Visualization-with-Matplotlib-and-Seaborn-Using-Iris-Dataset/issues)
 
 Thank you for exploring data visualization with Matplotlib and Seaborn!
 
 ---
-
-Feel free to adjust the README further based on specific details or additional features of your project.
